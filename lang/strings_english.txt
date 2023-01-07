@@ -1,0 +1,7 @@
+<?php
+
+$s_plugin_Mounds_name = 'Plugin Browser';
+$s_plugin_Mounds_description = 'MantisBT plugin browser that aggregates plugins from various sources, allowing administrators to browse the directory and discover new plugins.';
+
+$s_plugin_Mounds_plugin_directory = 'Plugin Directory';
+$s_plugin_Mounds_repository = 'Repository';

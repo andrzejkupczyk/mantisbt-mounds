@@ -4,7 +4,7 @@
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/andrzejkupczyk/mantisbt-mounds?sort=semver&style=flat-square)
 [![GitHub license](https://img.shields.io/github/license/andrzejkupczyk/mantisbt-mounds?style=flat-square)](https://github.com/andrzejkupczyk/mantisbt-mounds/blob/main/LICENSE "License")
 
-MantisBT Mounds is a simple plugin viewer. It aggregates plugins from various sources (e.g. GitHub) and allows administrators to browse the directory to discover new plugins.
+MantisBT plugin browser that aggregates plugins from various sources, allowing administrators to browse the directory and discover new plugins.
 
 ## Installation
 

@@ -1,0 +1,7 @@
+<?php
+
+$s_plugin_Mounds_name = 'Przeglądarka wtyczek';
+$s_plugin_Mounds_description = 'Przeglądarka wtyczek MantisBT, która agreguje wtyczki z różnych źródeł, umożliwiając administratorom przeglądanie katalogu i odkrywanie nowych wtyczek.';
+
+$s_plugin_Mounds_plugin_directory = 'Katalog wtyczek';
+$s_plugin_Mounds_repository = 'Repozytorium';

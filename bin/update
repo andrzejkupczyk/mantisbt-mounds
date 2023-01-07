@@ -1,0 +1,19 @@
+#!/usr/bin/php
+<?php
+
+define('PLUGIN_DIR', realpath(__DIR__ . '/..'));
+
+include $_composer_autoload_path ?? PLUGIN_DIR . '/vendor/autoload.php';
+
+use WebGarden\Mounds\Sources\GitHub;
+
+$source = new GitHub();
+$file = new SplFileObject(PLUGIN_DIR . '/sources/github.jsonl', 'w');
+$pluginsFound = 0;
+
+foreach ($source->fetchAll() as $plugin) {
+    $file->fwrite($plugin . PHP_EOL);
+    $pluginsFound++;
+}
+
+echo "Found {$pluginsFound} plugin(s)\n";

@@ -26,6 +26,8 @@ you can follow these steps:
 
 ### Plugin management page
 
+![image](https://user-images.githubusercontent.com/11018286/211188753-3d4714e5-89df-4f04-8b72-4b113c557c4d.png)
+
 ## Translations
 
 Supported languages are: :gb: :poland:

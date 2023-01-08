@@ -12,7 +12,7 @@ if (is_file(__DIR__ . '/vendor/autoload.php')) {
 
 final class MoundsPlugin extends TermitePlugin
 {
-    const VERSION = '0.1.0';
+    const VERSION = '1.0.0';
 
     public function register()
     {

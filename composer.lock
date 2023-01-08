@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2b34040cb705bd334b2af75c8f2c6352",
+    "content-hash": "c17f359eb0cc8a9572291fd978f3f14a",
     "packages": [
         {
             "name": "composer/installers",
@@ -759,12 +759,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/mantisbt/mantisbt",
-                "reference": "deab6792a973a6d83a8a38d2c7cc4ab1a01b16ce"
+                "reference": "a3211026d9ff1c36c411ebdf7003d58f359ff941"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mantisbt/mantisbt/zipball/deab6792a973a6d83a8a38d2c7cc4ab1a01b16ce",
-                "reference": "deab6792a973a6d83a8a38d2c7cc4ab1a01b16ce",
+                "url": "https://api.github.com/repos/mantisbt/mantisbt/zipball/a3211026d9ff1c36c411ebdf7003d58f359ff941",
+                "reference": "a3211026d9ff1c36c411ebdf7003d58f359ff941",
                 "shasum": ""
             },
             "require": {
@@ -798,7 +798,7 @@
                 }
             ],
             "description": "Mantis Bug Tracker",
-            "time": "2023-01-05T12:11:28+00:00"
+            "time": "2023-01-08T01:57:37+00:00"
         },
         {
             "name": "nikic/fast-route",
@@ -1274,6 +1274,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "halaxa/json-machine": 20,
         "mantisbt/mantisbt": 20
     },
     "prefer-stable": false,

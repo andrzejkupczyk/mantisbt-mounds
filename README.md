@@ -6,6 +6,8 @@
 
 MantisBT plugin browser that aggregates plugins from various sources, allowing administrators to browse the directory and discover new plugins.
 
+If you find this plugin useful, feel free to try [my other plugins](https://github.com/search?q=user%3Aandrzejkupczyk+topic%3Amantisbt-plugin) as well.
+
 ## Installation
 
 MantisBT Mounds is packaged with [Composer](https://getcomposer.org/) 
